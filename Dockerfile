@@ -1,2 +1,2 @@
-from neubiaswg5/biaflows_jupyter_minimal
+from neubiaswg5/biaflows_jupyter_minimal:d40e907416d53bdc23fbd4976834811921f61125
 
